@@ -1,4 +1,4 @@
 language: csharp
 solution: WebApi.csproj
 script:
- - dotnet build --configuration Release
+ - dotnet build --configuration Release 
