@@ -1,0 +1,14 @@
+/Users/agu.kull/Desktop/test/backend/bin/Release/netcoreapp2.1/WebApi.deps.json
+/Users/agu.kull/Desktop/test/backend/bin/Release/netcoreapp2.1/WebApi.runtimeconfig.json
+/Users/agu.kull/Desktop/test/backend/bin/Release/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Users/agu.kull/Desktop/test/backend/bin/Release/netcoreapp2.1/WebApi.dll
+/Users/agu.kull/Desktop/test/backend/bin/Release/netcoreapp2.1/WebApi.pdb
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.csprojAssemblyReference.cache
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.dll
+/Users/agu.kull/Desktop/test/backend/obj/Release/netcoreapp2.1/WebApi.pdb

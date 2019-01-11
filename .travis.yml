@@ -1,6 +1,6 @@
 language: csharp
-mono: none
-dotnet: 1.1.5
+mono: latest
+dotnet: 2.1.502
 script:
  - dotnet restore
  - dotnet build --configuration Release 
